@@ -1,5 +1,5 @@
 {
-  "name": "@b2a/mcp-server",
+  "name": "b2a-mcp-server",
   "version": "0.1.0",
   "description": "B2A Intelligence Layer — AI agent capability discovery via MCP. Finds, matches, and orchestrates x402 services for agents that hit their ceiling.",
   "type": "module",
@@ -30,5 +30,13 @@
   "devDependencies": {
     "@types/node": "^22.0.0",
     "typescript": "^5.8.0"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itaeui12/b2a-mcp-server"
   }
 }
