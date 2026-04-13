@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "0x402.ai",
+    "description": "The Premier Cloud Infrastructure for x402. Empowering anyone to become an x402 Facilitator in seconds with dedicated domains and isolated environments, accelerating the growth and quality of the ecosystem.",
+    "url": "https://0x402.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "0xArchive Facilitator",
+    "description": "First HyperEVM-native x402 facilitator. Fee-free USDC settlement on HyperEVM and Base Mainnet.",
+    "url": "https://0xarchive.io",
+    "category": "Facilitators"
+  },
+  {
+    "name": "0xmeta AI",
+    "description": "A fast and reliable x402 payment facilitator that simplifies blockchain payment verification and settlement. Built on top of x402 Protocol, 0xmeta.ai provides seamless multi-chain support with automatic settlement polling, webhook notifications, and enterprise-grade reliability.",
+    "url": "https://0xmeta.ai",
+    "category": "Facilitators"
+  },
+  {
+    "name": "1Pay.ing",
+    "description": "1Pay.ing is the x402 payment wallet for instant micropayments, trusted checkout flows, and effortless integrations.",
+    "url": "https://1pay.ing",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "1Shot API",
+    "description": "A general purpose fascilitator to monetize any n8n workflow with your favorite ERC-20 token.",
+    "url": "https://docs.1shotapi.com/automation/n8n.html#monetize-n8n-workflows-with-x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "402104",
+    "description": "Generate expirable, paywalled links to private ANS-104 DataItems on Arweave. Compatible with both S3 and ANS-104 data standards.",
+    "url": "https://402.load.network",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "ActionGate",
+    "description": "Pre-execution decision API for autonomous agents with paid risk scoring, simulation, and policy-gate endpoints using x402 V2.",
+    "url": "https://api.actiongate.xyz/docs",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AdEx AURA API",
+    "description": "AdEx AURA API with x402 micropayments. Access porfolio data, tokens and defi positions, yield strategies, transaction payloads",
+    "url": "https://guide.adex.network/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AdPrompt x402 Marketing & Advertising APIs",
+    "description": "x402-enabled endpoints from AdPrompt.Ai that let clients and agents pay-per-request for advertising and marketing outputs like brand analysis, marketing and advertising strategy, budget allocation, image and video ad creatives, A/B creatives, ad copy variants, and structured brand asset generation. Endpoints return 402 Payment Required with a machine-readable offer and accept automatic stablecoin settlement to unlock responses.",
+    "url": "https://www.adprompt.ai/x402-api",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AEON",
+    "description": "The omnichain settlement layer that enables AI agents to seamlessly pay millions of real-world merchants across SEA, LATAM, and Africa — powered by x402 and USDC.",
+    "url": "https://aeon.xyz/AIPayment",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Agent Camo",
+    "description": "Residential proxy sessions with hot-swappable geo-targeting for on-chain agents, paid per-use via x402 micropayments on Base.",
+    "url": "https://agentcamo.xyz",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Agent Health Monitor",
+    "description": "Pay-per-call diagnostic infrastructure for autonomous agents on Base. 11 x402 endpoints delivering health scores, risk analysis, gas optimisation, wash scans, and AHS composite scoring. The mechanic layer for the agent economy.",
+    "url": "https://agenthealthmonitor.xyz",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AgentCash",
+    "description": "AgentCash enables AI agents to send and receive payments using x402, providing a simple interface for autonomous agent monetization.",
+    "url": "https://agentcash.dev",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Agently",
+    "description": "The way AI coordinates and transacts. Agently is the routing and settlement layer for your agent economy.",
+    "url": "https://use-agently.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "AgentMail",
+    "description": "AgentMail integrates x402 to enable AI agents to send and receive emails with native payment flows, monetizing agent-powered communication services.",
+    "url": "https://docs.agentmail.to/integrations/x402",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Agnic.AI",
+    "description": "Identity, x402 powered payments, and monetization for AI agents.",
+    "url": "https://agnic.ai/x402",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Agoragentic",
+    "description": "Agent-to-agent marketplace with x402 pay-per-request gateway. Agents discover, invoke, and pay for API services using USDC on Base — no registration required. Features 26+ REST endpoints including vault storage, agent passport NFTs, and full commerce flow.",
+    "url": "https://agoragentic.com/api/x402/info",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AI Security Guard",
+    "description": "When your AI agent calls an MCP tool, fetches a URL, or processes a document, it trusts whatever comes back. That's the problem. A malicious API response can hijack your agent's behavior or tell it to run malicious code. AI Security Guard is a firewall that sits between your agent and untrusted content. Before your agent processes anything external, we scan it. Five specialized analyzers — not LLMs, but deterministic detection systems — examine inputs and provide verdicts with context. When something looks wrong, agents get an explanation of what it might be and why it matters. Operators get visibility into what's flowing through their systems. x402 micropayments. Pay per scan, no subscriptions.",
+    "url": "https://aisecurityguard.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AiMo Network",
+    "description": "Through a permissionless API, pay-per-inference via x402, and agent-native interface, AiMo Network connects humans, AI agents, and service providers without censorship, borders, or gatekeepers.",
+    "url": "https://aimo.network",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AIsa",
+    "description": "A resource marketplace aggregating core assets such as LLMs, data APIs based on the HTTP 402 standard.",
+    "url": "https://aisa.one",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Alchemy",
+    "description": "Alchemy integrates x402 to enable monetized access to their blockchain developer platform, allowing AI agents and applications to pay for RPC calls and web3 APIs using stablecoins.",
+    "url": "https://agents.alchemy.com/?utm_source=x&utm_medium=social&utm_campaign=x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "AltLayer",
+    "description": "AltLayer provides an x402 suite including x402 gateway, facilitator, decentralized agent hosting autonome, etc.",
+    "url": "https://altlayer.io/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "ampersend",
+    "description": "A wallet for agents and a dashboard for humans. ampersend is a management platform for agent payments and operations, it abstracts crypto complexities while giving automation, control, and observability for agent-to-agent interactions.",
+    "url": "https://ampersend.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Arch AI Tools",
+    "description": "53 AI-powered tools in a single MCP server — web search, image generation, crypto prices, fact-checking, research reports, domain analysis, and more. Pay per use in USDC on Base via x402. No accounts required. Works with Claude Desktop, Cursor, and any MCP client.",
+    "url": "https://archtools.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AskClaude",
+    "description": "Pay-per-question Claude AI service. Ask Claude Haiku ($0.01), Sonnet ($0.03), or Opus ($0.10) per question with no subscription or API key. Supports streaming. Pay with USDC on Base via x402.",
+    "url": "https://askclaude.shop",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AsterPay",
+    "description": "Multichain EUR settlement for x402. Converts USDC, EURC & EURCV from Base, Ethereum, Solana, XRPL to EUR via SEPA Instant — MiCA-compliant, for AI agents and API providers in Europe.",
+    "url": "https://asterpay.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Atomic Rail",
+    "description": "A Web3 toolkit for building paid APIs that you actually own. It uses the x402 protocol to send payments directly to your wallet—no middlemen or banks. You can change your prices or manage your endpoints from a dashboard and see the updates in production instantly, without ever redeploying your code.",
+    "url": "https://www.atomicrail.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Augur",
+    "description": "Deterministic Base contract admission control for agents. Pay $0.10/call via x402 in USDC on Base to get a default decision, policy recommendation, and supporting findings before your agent buys, routes funds, approves, pays, or interacts with a contract.",
+    "url": "https://augurrisk.com/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "auor.io (Oreo)",
+    "description": "x402 AI agent research toolkit. Access multiple APIs through the x402 payment protocol. No accounts, no subscription, just internet-native USDC.",
+    "url": "https://auor.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "AutoIncentive Facilitator",
+    "description": "Free, public x402 facilitator for Base and Solana. Full verify + settle flow with on-chain USDC transfers. No API keys required.",
+    "url": "https://autoincentive.online",
+    "category": "Facilitators"
+  },
+  {
+    "name": "AWS",
+    "description": "Amazon Web Services supports x402 for machine-to-machine payments in the cloud, enabling AI agents and services to transact seamlessly using the HTTP 402 payment protocol.",
+    "url": "https://builder.aws.com/content/38fLQk6zKRfLnaUNzcLPsUexUlZ/monetize-any-http-application-with-x402-and-cloudfront-lambdaedge",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Axios & Fetch Clients",
+    "description": "Reference TypeScript clients for x402 using both Axios and Fetch. Easily integrate x402 payments into your own applications.",
+    "url": "https://github.com/coinbase/x402/tree/main/examples/typescript/clients",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Bino",
+    "description": "The autonomous AI agent framework. Consumes x402 paywalled services to collaborate with other agents, paying for specialized data and capabilities.",
+    "url": "https://github.com/iotexproject/binoSwarm/tree/main/packages/plugin-swarm",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Bitrefill",
+    "description": "Bitrefill lets people and AI agents buy gift cards, payment cards, mobile top-ups, and eSIMs using cryptocurrency",
+    "url": "https://www.bitrefill.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Bitrefill Facilitator",
+    "description": "Free x402 facilitator for EVM and Solana",
+    "url": "https://www.bitrefill.com",
+    "category": "Facilitators"
+  },
+  {
+    "name": "BlackSwan",
+    "description": "Real-time risk intelligence infrastructure for autonomous AI agents.",
+    "url": "https://blackswan.wtf",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "BlockRun.AI",
+    "description": "Pay-as-you-go AI gateway providing ChatGPT and all major LLMs (Anthropic, Google, DeepSeek, xAI) via x402 on Base. Also features a catalog to discover all x402 services available on the market.",
+    "url": "https://blockrun.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Bloomfilter",
+    "description": "Register domains and manage DNS with a single API call. No accounts or credit cards required, just x402 payments.",
+    "url": "https://bloomfilter.xyz/docs",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Browserbase",
+    "description": "Browserbase integrates x402 to monetize headless browser infrastructure, enabling AI agents to pay for cloud browser sessions using stablecoins.",
+    "url": "https://browserbase.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Built on Stellar",
+    "description": "Free, public x402 facilitator for Stellar with ~5-second finality and sponsored fees. Full verification and settlement flow powered by the OpenZeppelin Relayer.",
+    "url": "https://developers.stellar.org/docs/build/apps/x402/built-on-stellar",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Cascade",
+    "description": "Revenue distribution infrastructure for Solana and Base. Split payments between contributors, partners, and platforms.",
+    "url": "https://cascade.fyi",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "CDP Facilitator",
+    "description": "Best-in-class x402 facilitator. Fee-free USDC settlement on Base Mainnet. KYT/OFAC checks on every transaction.",
+    "url": "https://docs.cdp.coinbase.com/x402/docs/quickstart-sellers",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Checkpoint402",
+    "description": "Adversarial AI output verification service. Any agent sends its output + original task, gets back a trust score (0-100), hallucination detection, logic gap analysis, and fix suggestions. Uses Claude as an adversarial critic to find errors before they reach humans. $0.01 USDC per verification on Base via x402.",
+    "url": "https://checkpoint402.itaeui12.workers.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "ClawdVine",
+    "description": "Short-form video network for AI agents.",
+    "url": "https://clawdvine.sh",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "ClawPay MCP",
+    "description": "Open-source, non-custodial x402 MCP payment layer for AI agents. Agents sign transactions locally with no custodial infrastructure required. Supports x402 V2 sessions, spend limits, and multi-chain payments.",
+    "url": "https://www.npmjs.com/package/clawpay-mcp",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Cloudflare co-founded the x402 Foundation with Coinbase and provides native x402 support in Cloudflare Workers and AI Agents, enabling serverless HTTP payment flows at the edge.",
+    "url": "https://blog.cloudflare.com/x402/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "CodeNut",
+    "description": "A Web3 vibe-coding platform for building and deploying x402-enabled applications and agents.",
+    "url": "https://www.codenut.ai/x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Conway Automaton",
+    "description": "Conway Automaton is an autonomous agent framework that integrates x402 for native HTTP payment flows, enabling agents to pay for and monetize API access on-chain.",
+    "url": "https://github.com/Conway-Research/automaton",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Corbits",
+    "description": "A production grade facilitator which supports multi-network, multi-token, multi-payment schemes.",
+    "url": "https://corbits.dev",
+    "category": "Facilitators"
+  },
+  {
+    "name": "GenVox Crypto Sentiment API",
+    "description": "Real-time crypto sentiment analysis powered by Reddit...",
+    "url": "https://api.genvox.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Cybercentry",
+    "description": "Cybercentry empowers individuals and organisations to anticipate, prevent, and respond to cyber threats with confidence. Our x402 services connect you to a curated suite of AI-powered security endpoints, structured around the core pillars of Compliance, Intelligence, and Protection.",
+    "url": "https://cybercentry.gitbook.io/cybercentry/documents/x402-cybercentry",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "DappLooker AI",
+    "description": "DappLooker offers unified on-chain and market intelligence APIs with native x402 support, enabling seamless crypto-based pay-per-call access for agents, bots, and apps.",
+    "url": "https://dapplooker.ai/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Daydreams Router",
+    "description": "Daydreams router provides x402 enabled LLM inference for agents and applications. All major providers are supported. Build the future of nanoservices.",
+    "url": "https://router.daydreams.systems",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Dexter",
+    "description": "Solana and Base x402 facilitator with an integrated marketplace and cross-chain bridge. Agents discover tools via MCP, pay via x402, and get results in one flow. Access from ChatGPT, Claude, Telegram, or any MCP client - same agent, same wallet, infinite interfaces.",
+    "url": "https://dexter.cash",
+    "category": "Facilitators"
+  },
+  {
+    "name": "DiamondClaws DeFi Intelligence",
+    "description": "DeFi yield scoring, protocol risk analysis, and multi-chain gas oracle for AI agents. 9 paid API endpoints covering 17K+ yield pools, 7K+ protocols, and 7 EVM chains. $0.0005-0.002/request via x402 on Base mainnet.",
+    "url": "https://diamondclaws.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "DJD Agent Score",
+    "description": "Reputation scoring API for AI agent wallets on Base. Scores agents 0–100 based on on-chain signals and provides x402-agent-score Hono middleware for gating API requests by reputation.",
+    "url": "https://djd-agent-score.fly.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "dTelecom STT",
+    "description": "Production-grade real-time speech-to-text for AI agents. Full audio intelligence pipeline with VAD, noise reduction, speech validation, and hallucination filtering. Dual-engine architecture (Parakeet-TDT + Whisper) with smart routing, 99+ languages, usage-based billing. Built on dTelecom DePIN.",
+    "url": "https://x402stt.dtelecom.org",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Einstein AI",
+    "description": "AI-powered blockchain intelligence API. Access whale tracking, smart money signals, DEX analytics, MEV detection, and investment reports via USDC micropayments on Base and Solana.",
+    "url": "https://emc2ai.io",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Ekai Labs",
+    "description": "Ekai is the universal context layer for your AI. Keep your context portable, persistent and yours, even when you switch between LLM models. Pay for inference using x402",
+    "url": "https://ekailabs.xyz",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Elsa x402",
+    "description": "DeFi API endpoints with x402 micropayments. Access portfolio data, token prices, swap quotes, wallet analytics, yield suggestions, and more - pay per request with USDC on Base.",
+    "url": "https://x402.heyelsa.ai",
+    "category": "Facilitators"
+  },
+  {
+    "name": "EntRoute",
+    "description": "Machine-first API discovery for AI agents. Ranked, verified x402 endpoints with semantic intent resolution, continuous verification probes, MCP server, and TypeScript SDK.",
+    "url": "https://entroute.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Faremeter",
+    "description": "A lightweight OSS x402 framework powered by client-, middleware-, and server-side plugins ensuring maximum composability and extensibility.",
+    "url": "https://faremeter.xyz",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Farnsworth",
+    "description": "AI agent infrastructure with x402 payments. SYNTEK provides 7-layer recursive memory, DropClaw offers encrypted on-chain storage, and PlanetExpress is an agent service marketplace. All services accept MON, SOL, and USDC via x402.",
+    "url": "https://ai.farnsworth.cloud",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Firecrawl",
+    "description": "Firecrawl is a web scraping API that allows you to turn websites into LLM-ready data.",
+    "url": "https://firecrawl.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Fluora",
+    "description": "Fluora is a MonetizedMCP marketplace, enabling AI agents to autonomously find and purchase services. Payments are powered by x402",
+    "url": "https://www.fluora.ai/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "FluxA",
+    "description": "FluxA provides permissionless deferred payment rails for x402. It enables fast, parallel stablecoin micropayments with on-chain batch settlement, bringing internet-native payments to scale.",
+    "url": "https://fluxapay.xyz",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Foldset",
+    "description": "Foldset lets anyone gate any API, MCP, URL, and more behind x402 micropayments. We provide the infrastructure layer for free: wallet provisioning, reverse proxy SDKs, AI-only blocking, analytics, and fiat off-ramps. Just add a middleware or reverse proxy and configure everything from our dashboard.",
+    "url": "https://foldset.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Freepik",
+    "description": "Freepik integrates x402 to enable pay-per-use access to their design assets and AI image generation APIs, allowing agents and developers to pay with stablecoins.",
+    "url": "https://freepik.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "fretchen.eu Facilitator",
+    "description": "Production x402 v2 Facilitator on Optimism and Base with EIP-3009 USDC payment verification and settlement.",
+    "url": "https://www.fretchen.eu/x402/",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Genbase",
+    "description": "Next-gen AI video platform with X402.",
+    "url": "https://genbase.fun",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Gloria AI",
+    "description": "Gloria is an AI-powered provider of real-time, high-signal, customizable news data to AI agents and agent systems that need structured signals for any use case.",
+    "url": "https://itsgloria.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "GoPlausible",
+    "description": "Facilitator dedicated to Algorand and supporting Base and Solana networks (main & test networks). Provides reference implementation, Typescript and Python packages, examples, and comprehensive documentation for x402 on Algorand.",
+    "url": "https://x402.goplausible.xyz/",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Grove API",
+    "description": "A unified API you can /fund using x402 to /tip anyone on the internet.",
+    "url": "https://grove.city/api",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Heurist Facilitator",
+    "description": "Enterprise-grade x402 facilitator on EVM chains. Supporting both V1 and V2. OFAC-Compliant.",
+    "url": "https://facilitator.heurist.ai",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Heurist Mesh",
+    "description": "Heurist Mesh provides a library of composable crypto skills for any AI agent. Equip your AI with expert crypto analysis abilities, from tracking whale wallets to spotting trending new tokens to analyzing onchain markets with full support for MCP and the X402 payment standard.",
+    "url": "https://mesh.heurist.ai/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Hydra Protocol Facilitator",
+    "description": "A permissionless network of independent nodes that collectively perform the facilitator's role. Nodes collaborate to fulfill requests in exchange for fees.",
+    "url": "https://hydraprotocol.org/",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Hyperbrowser",
+    "description": "Hyperbrowser integrates x402 to enable pay-per-use browser automation for AI agents, allowing programmatic web access with native stablecoin payments.",
+    "url": "https://hyperbrowser.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "ICPAY",
+    "description": "Crypto payments SDK and widgets for websites, apps, and AI agents.",
+    "url": "https://icpay.org",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Idapixl Cortex",
+    "description": "Cognitive infrastructure for AI agents. Semantic deduplication, novelty detection, and belief consistency checking powered by a persistent memory graph. Pay with USDC via x402 micropayments on Base.",
+    "url": "https://idapixl.com/tools",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Imference",
+    "description": "High-performance image generation via REST API.",
+    "url": "https://imference.com",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "invy",
+    "description": "Returns any wallet's token holdings (including values, prices, and NFTs) across Ethereum and Solana.",
+    "url": "https://invy.bot",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "KAMIYO Facilitator",
+    "description": "x402 payment facilitator powering autonomous agent transactions on Base and Solana.",
+    "url": "https://kamiyo.ai",
+    "category": "Facilitators"
+  },
+  {
+    "name": "KAMIYO",
+    "description": "AI agent orchestration platform with native x402 payment protocol support via ShadowWire, enabling autonomous agent-to-agent and agent-to-service micropayments on Solana.",
+    "url": "https://kamiyo.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Kevros",
+    "description": "AI governance gateway with cryptographic enforcement. Five x402-paid endpoints: action verification ($0.01), provenance attestation ($0.02), intent-command binding ($0.02), outcome verification (free), and compliance evidence bundles ($0.25). Every decision issues a signed release token. Every action is hash-chained. ML-DSA-87 post-quantum signatures for long-term non-repudiation. USDC on Base.",
+    "url": "https://governance.taskhawktech.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "API Paywall Cookbook",
+    "description": "Practical examples of monetizing APIs with the x402 protocol.",
+    "url": "https://github.com/fabriciogava/api-paywall-cookbook",
+    "category": "Learning & Community Resources"
+  },
+  {
+    "name": "Kobaru",
+    "description": "x402 Facilitator built from scratch by payment veterans who understand what payment systems demand. Kobaru is a purpose-built payment engine designed for developers who need institutional-grade reliability, complete visibility into their revenue operations, and the freedom to focus on building their business instead of managing payment complexity. Whether you are an Enterprise or Independent Developer, Kobaru has the right features for you.",
+    "url": "https://www.kobaru.io",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Kobaru",
+    "description": "Kobaru provides a transparent proxy layer that allows vendors to add an x402 paywall to any existing API without changing a single line of code. It acts as a critical infrastructure bridge, offering high-throughput processing and a unique settlement layer that supports both crypto (Solana) and fiat currency.",
+    "url": "https://www.kobaru.io/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Kodo",
+    "description": "Kodo - AI Creative Toolkit for images and videos",
+    "url": "https://www.kodo.fun",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Kurier",
+    "description": "Kurier by Horizen Labs is a high-performance REST API that turns complex zero-knowledge proof workflows into a simple, pay-as-you-go service. Designed for AI agents and high-scale apps; and fully optimized for the x402 ecosystem. Submit, verify, and settle zk proofs in seconds.",
+    "url": "https://kurier.xyz/docs/x402_payments",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Laso Finance",
+    "description": "No account needed. AI agents can get prepaid cards, gift cards, and make Venmo/PayPal payments with a single API call using USDC on Base.",
+    "url": "https://agents.laso.finance",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Latinum Agentic Commerce",
+    "description": "An open-source MCP wallet and facilitator that agents can use to pay 402 payment requests.",
+    "url": "https://latinum.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Locus",
+    "description": "An MCP-enabled wallet that allows you to easily control your agents spending and auto generates tools for every x402 endpoint you use.",
+    "url": "https://paywithlocus.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "MCP Server Example",
+    "description": "A reference implementation MCP server and wallet to call x402 endpoints. Explore the code and run your own server.",
+    "url": "https://github.com/coinbase/x402/tree/main/examples/typescript/mcp",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "MCPay",
+    "description": "Build and monetize MCP servers.",
+    "url": "https://mcpay.tech",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "MerchantGuard",
+    "description": "AI-powered compliance infrastructure for the agent economy. x402-gated APIs: GuardScore (merchant risk scoring), GuardScan (3-layer security scanner), and Mystery Shopper (10-probe agent certification). USDC on Base.",
+    "url": "https://www.merchantguard.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Meridian",
+    "description": "Multi-chain facilitator with developer-first features.",
+    "url": "https://mrdn.finance",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Meson x402",
+    "description": "Chrome extension to connect EVM & Solana wallets, test x402 interfaces, perform payments, and generate X Payment Headers",
+    "url": "https://chromewebstore.google.com/detail/meson-x402/ppdppbgbdlnnmompceomhadjminblalp",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Messari",
+    "description": "Messari leverages x402 to gate access to their professional-grade crypto intelligence and research APIs, enabling pay-per-use access to on-chain data and market analytics.",
+    "url": "https://messari.io/x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Minifetch",
+    "description": "Fetch rich, structured metadata and clean, token-efficient content summaries from web pages with pay-as-you-go micropayments",
+    "url": "https://minifetch.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Mogami examples",
+    "description": "Learn x402 in Java with real client, server, and hosted examples.",
+    "url": "https://mogami.tech/#examples",
+    "category": "Learning & Community Resources"
+  },
+  {
+    "name": "Mogami facilitator",
+    "description": "A free, developer-focused, production-ready facilitator for x402 payments. Use it instantly online, or launch your own Docker image in seconds.",
+    "url": "https://facilitator.mogami.tech",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Mogami java client SDK",
+    "description": "The Mogami Java Client SDK makes it easy to bring x402 payments into your Java application.",
+    "url": "https://mogami.tech/#clientSDK",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Mogami java server SDK (Spring boot)",
+    "description": "The Mogami Java Server SDK lets you turn any endpoint of your spring application into a pay-per-call API using the x402 protocol.",
+    "url": "https://mogami.tech/#serverSDK",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Moltalyzer",
+    "description": "AI intelligence APIs for agents. Three feeds: hourly Moltbook community digests (trending topics, sentiment, narratives), daily GitHub trending repos (emerging tools, language trends), and daily Polymarket insider detection (markets with insider-knowledge signals). x402 micropayments on Base.",
+    "url": "https://moltalyzer.xyz",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Mycelia Signal",
+    "description": "Cryptographically signed price oracle for AI agents and DeFi. 7 real-time price feeds (BTC, ETH, SOL, EUR, XAU, BTC/EUR, VWAP) via x402 micropayments on Base. Ed25519-signed attestations, multi-source median pricing. $0.001/query USDC.",
+    "url": "https://myceliasignal.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Nansen",
+    "description": "Nansen uses x402 to monetize access to their blockchain analytics platform, enabling AI agents and developers to pay for on-chain intelligence and wallet analytics using stablecoins.",
+    "url": "https://docs.nansen.ai/getting-started/x402-payments",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Nevermined Facilitator",
+    "description": "Nevermined x402 Facilitator for AI agent payment verification and settlement on Base networks.",
+    "url": "https://api.live.nevermined.app/api/v1/rest/docs",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Nevermined",
+    "description": "Infrastructure for AI agent payment processing and settlement. Handles payment validation, cost tracking, and multi-model support.",
+    "url": "https://nevermined.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Neynar",
+    "description": "Powering social data on Farcaster for agents and humans. Get cast info and more.",
+    "url": "https://neynar.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Node Servers (Hono, Express, Advanced)",
+    "description": "Reference x402 server implementations in Node.js using Hono and Express, plus an advanced example with dynamic pricing and complex logic.",
+    "url": "https://github.com/coinbase/x402/tree/main/examples/typescript/servers",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Numbers Protocol",
+    "description": "Numbers Protocol is a decentralized network that ensures the provenance and authenticity of digital media. Numbers uses x402 to enable seamless, instant payments for digital asset licensing, allowing users to acquire content licenses and Receipt NFTs directly via their crypto wallets.",
+    "url": "https://numbersprotocol.io/",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Nuwa AI",
+    "description": "Nuwa AI introduces xNUWA, a user-friendly AI client that connects you to x402-compatible AI services. ",
+    "url": "https://nuwa.dev/",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Obol",
+    "description": "AI code generation via x402. Describe what you want — Obol generates production-ready code and opens a GitHub PR. 7 endpoints ($5 USDC/call on Base): site cloning, Farcaster mini apps, APIs, tests, docs, CI/CD, and refactoring.",
+    "url": "https://obol.sh",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Octomil",
+    "description": "On-device ML inference as an x402-gated MCP server. Agents pay per tool call to run LLMs locally — code generation, code review, inference, model benchmarking, and more. Payments are accumulated and batch-settled via settle402.",
+    "url": "https://octomil.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "OMATrust: x402 Reputation",
+    "description": "Decentralized reputation for x402 resource servers. Use x402 signed offers and receipts as cryptographic proof-of-interaction in on-chain EAS attestations.",
+    "url": "https://docs.omatrust.org/integrations/x402/overview",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Onchain",
+    "description": "Onchain is x402's Intelligent Intermediary Layer for Aggregating Facilitators.",
+    "url": "https://onchain.fi",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "OnVoyage",
+    "description": "OnVoyage is the creator earnings platform of Voyage.ai's GeoFi (Generative Economy of Finance) ecosystem. It lets creators link social accounts, view and claim earnings from AI and indexer content citations, withdraw to self-custody wallets, and earn points via tasks. Built on the v402 payment protocol with non-custodial design and clear user consent.",
+    "url": "https://app.onvoyage.ai/",
+    "category": "Web3 Application & Infrastructure"
+  },
+  {
+    "name": "OOBE Protocol & Synapse",
+    "description": "Decentralized protocol for AI agent identity, discovery, and reputation on Solana. Agents register on-chain via indexed PDAs, publish capabilities, and are discovered trustlessly. Synapse, its TypeScript SDK, enables agent registration, transaction building, and x402 micropayments — each agent stores an x402Endpoint in its PDA for automatic per-call payments with SOL or USDC.",
+    "url": "https://oobeprotocol.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Oops!402",
+    "description": "Bring x402 to ChatGPT and Claude via remote MCP, enabling AI agents to discover paid tools and agents, plan scoped execution, and pay with budget controls and receipts.",
+    "url": "https://oops402.com",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "OpenFacilitator",
+    "description": "Free, open-source x402 facilitator. Or become your own facilitator for $5/month.",
+    "url": "https://www.openfacilitator.io",
+    "category": "Facilitators"
+  },
+  {
+    "name": "OpenX402.ai Facilitator",
+    "description": "The first permissionless, gasless and omnichain x402 facilitator that any x402 server can use without login",
+    "url": "https://openx402.ai",
+    "category": "Facilitators"
+  },
+  {
+    "name": "OpenZeppelin",
+    "description": "OpenZeppelin provides an x402 facilitator plugin for their Relayer infrastructure, enabling secure and audited payment verification and settlement for the x402 protocol.",
+    "url": "https://github.com/OpenZeppelin/relayer-plugin-x402-facilitator",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Orac",
+    "description": "AI agent security and trust infrastructure. Three x402-paid APIs: prompt injection scanning, code security auditing, and agent trust scoring powered by a 265-entity knowledge graph with PageRank reputation.",
+    "url": "https://orac-safety.orac.workers.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Ordiscan",
+    "description": "Bitcoin Ordinals explorer and API with x402 support. Query ordinals data or inscribe content on Bitcoin — pay per request with USDC on Base, no API key required.",
+    "url": "https://ordiscan.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Otto AI Agent Swarm",
+    "description": "AI-powered crypto intelligence for Agents and Pros. Real-time crypto news, token analysis, market alpha signals, and AI tools via USDC on Base.",
+    "url": "https://docs.ottowallet.xyz/introduction/otto-ai-swarm",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "ouchanip x402 APIs",
+    "description": "10 pay-per-request utility APIs including QR code generation, email validation, PDF invoice, image resize, DNS lookup, and more. No accounts, no API keys — just USDC on Base L2.",
+    "url": "https://ouchanip.github.io/x402-docs/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "PayAI Facilitator",
+    "description": "Accept x402 payments on all networks including Avalanche, Base, Polygon, Sei, Solana, and more! Get started in less than 1 minute. Supports all tokens. No API Keys required.",
+    "url": "https://facilitator.payai.network",
+    "category": "Facilitators"
+  },
+  {
+    "name": "PEAC Protocol",
+    "description": "Cryptographic receipt layer for x402 payments. On success, return a signed PEAC-Receipt header that binds payment proof to the delivered response and policy, verifiable offline.",
+    "url": "https://x402.peacprotocol.org",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Pinata",
+    "description": "Account-free IPFS uploads and retrievals using crypto payments, powered by x402. Pay for private or public IPFS storage and retrieval without an account or API key.",
+    "url": "https://402.pinata.cloud/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Postera",
+    "description": "Publishing platform for AI agents. Agents publish articles and readers pay per-read with x402 micropayments on Base.",
+    "url": "https://postera.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "PredictOS",
+    "description": "The leading open-source framework for deploying AI agents and trading bots for prediction markets. Features multi-agent Super Intelligence, wallet tracking, betting bots, and native x402/PayAI integration for paid AI services. Bring your own data, models, and strategies.",
+    "url": "https://github.com/PredictionXBT/PredictOS/blob/main/docs/features/x402-integration.md",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Primer",
+    "description": "A browser wallet (Primer Pay) for seamless interaction with x402 paywalls across the web, plus TypeScript & Python SDKs for payers and payees, with Full ERC-20 support.",
+    "url": "https://primer.systems",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Primer Facilitator",
+    "description": "x402 v1 & v2 facilitator on Base, with full ERC-20 support - not just EIP-3009.",
+    "url": "https://primer.systems",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Proofivy",
+    "description": "Attestation and x402 paywalled publishing via a WordPress plugin or custom tools for publishers. iPhone app offering attestation and x402 publication for anyone.",
+    "url": "https://proofivy.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Proxy402",
+    "description": "Turn your URLs into paid content. Set a price, share your link, and collect payments instantly. By Fewsats.",
+    "url": "https://proxy402.com/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "px402 by PRXVT",
+    "description": "Privacy Preserving x402 Payments, using zero-knowledge proofs and shielded pools, hiding the sender's identity and transaction history.",
+    "url": "https://prxvt.com/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "QuantumShield API",
+    "description": "Security-as-a-service API for token risk analysis. Get comprehensive token security scores, honeypot detection, and holder risk analysis powered by x402 micropayments on Base.",
+    "url": "https://quantumshield-api.vercel.app",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Questflow",
+    "description": "The orchestration layer for the multi-agent economy. Orchestrate multiple AI agents to research, take action and earn rewards on-chain, autonomously.",
+    "url": "https://questflow.ai?utm_source=x402_website&utm_medium=ecosystem",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "QuickNode",
+    "description": "A Ruby gem that simplifies the process of adding paywalls to API routes in Ruby on Rails applications.",
+    "url": "https://github.com/quiknode-labs/x402-rails",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "QuickSilver",
+    "description": "Quicksilver serves as the bridge between physical systems and AI to foster real-world applications with perception, reasoning, and adaptability.",
+    "url": "https://data.iotex.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "RelAI",
+    "description": "Monetize APIs with x402 micropayments across multiple networks. RelAI provides a marketplace and SDK to pay per request without API keys.",
+    "url": "https://relai.fi",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "RelAI Facilitator",
+    "description": "Multi-chain x402 facilitator with gas-sponsored USDC payments on Ethereum, Polygon, Base, Avalanche, SKALE, and Solana. Zero gas fees for users.",
+    "url": "https://relai.fi",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Rencom",
+    "description": "Search for x402 resources. Ranks candidate endpoints by historical agent outcomes to minimize execution failure and cost variance before selection. Sort by price, popularity or reliability to ensure you get the best resources.",
+    "url": "https://x402.rencom.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Robtex",
+    "description": "Network intelligence APIs for DNS, IP/domain reputation (100+ blocklists), BGP/AS analysis, passive DNS, and Bitcoin Lightning Network data. Available as 50+ API endpoints for seamless agent integration.",
+    "url": "https://x402.robtex.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Rug Munch Intelligence",
+    "description": "The only AI-powered crypto risk intelligence on x402. Agents check any token for rug pulls, honeypots, and scams before transacting — 19 paid endpoints from $0.02 to $2.00, powered by 240K+ historical scans and LLM forensic analysis (Claude Sonnet/Opus). Supports Solana, Ethereum, Base, Arbitrum, Polygon, and more.",
+    "url": "https://cryptorugmunch.app/api/agent/v1/status",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Run402",
+    "description": "AI-native Postgres databases, REST API, auth, storage, static sites, and serverless functions — all payable via x402. No signups.",
+    "url": "https://run402.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "SerenAI x402 Gateway",
+    "description": "Production payment gateway enabling AI agents to pay for database queries and API access using USDC on Base via the x402 protocol.",
+    "url": "https://serendb.com",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "SLAMai",
+    "description": "Fast, accurate, agentic data. SLAMai is the definitive platform for smart money intelligence — live on Base and Ethereum. It delivers best-in-class data, open APIs for builders, and an MCP layer purpose-built for autonomous agents.",
+    "url": "https://www.slamai.xyz/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Slinky Layer",
+    "description": "SlinkyLayer is the open market for APIs - turning any API into an on-chain x402 pay-per-use resource with ERC-8004 portable reputation.",
+    "url": "https://slinkylayer.ai/",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Snack Money API",
+    "description": "Micropayment platform for X, Farcaster, baseapp and verifiable identities.",
+    "url": "https://api.snack.money/docs",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "SocioLogic",
+    "description": "x402-enabled RNG API providing cryptographically secure, verifiable randomness for AI agents, smart contracts, and applications requiring pay-per-use entropy.",
+    "url": "https://www.sociologic.ai/x402-rng",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "solana-pay-x402",
+    "description": "HTTP 402 payment middleware for Solana (Express + Next.js). Supports x402 v2 programmatic flows and Solana Pay QR code transactions from a single integration.",
+    "url": "https://www.npmjs.com/package/solana-pay-x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "SolPay",
+    "description": "Solana x402 facilitator powering crypto payments for storefronts and APIs. USDC settlements with sub-second finality, trustless escrow, and WooCommerce integration.",
+    "url": "https://solpay.cash",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Soundside",
+    "description": "MCP-native AI media generation with x402 pay-per-call. Create images, videos, audio, and music from 5 providers — composable via resource IDs. 22 tool/provider combinations on Base mainnet.",
+    "url": "https://soundside.ai/docs/x402",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Spraay x402 Gateway",
+    "description": "Full-stack x402 infrastructure platform with 62 paid endpoints across 11 categories. AI chat (200+ models), batch payments (200 recipients/tx), token swaps (Uniswap V3), price oracle, cross-chain bridge (11 chains), payroll, invoicing, escrow, wallet analytics, AI inference, GPU/Compute (image/video/LLM/audio via Replicate), web search & RAG (Tavily), email/SMS, webhooks, XMTP messaging, multi-chain RPC, IPFS storage, cron scheduling, logging, KYC/KYB, auth/SSO, audit trails, and crypto tax. 63-tool MCP server on Smithery. USDC on Base. No API keys, no accounts.",
+    "url": "https://docs.spraay.app",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Stakevia",
+    "description": "AI-powered Solana validator intelligence. Pay $1 USDC per report via x402 for scoring, risk analysis, and stake simulations across 1,000+ validators.",
+    "url": "https://stakevia.xyz",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Stellar",
+    "description": "Stellar supports x402 as a payment protocol for AI agents and internet commerce, enabling stablecoin payments on the Stellar network.",
+    "url": "https://stellar.org/x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Stripe",
+    "description": "Stripe has integrated x402 to enable stablecoin payments for internet commerce, allowing businesses to accept USDC payments natively via the HTTP 402 standard.",
+    "url": "https://docs.stripe.com/payments/machine/x402",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Subnano",
+    "description": "Subnano is a micropayment content platform enabling creators to earn instantly — readers pay with fee-less Nano (XNO) for what they actually read.",
+    "url": "https://subnano.me/",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "x402-secure",
+    "description": "Real-time risk control for AI-driven x402 payments. x402-secure is specifically designed for transactions involving autonomous AI agents. It transparently integrates pre-payment AI agent risk checks and comprehensive signal collection into the standard x402 flow to prevent disputes and fraud.",
+    "url": "https://x402-secure.t54.ai/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Thesis402",
+    "description": "Investment thesis adversarial stress-tester for trading bots and investment agents. Send any investment thesis, get it destroyed or validated: conviction score, bear/bull case, blind spots, categorized risks, key assumptions, and kill conditions. $0.02 USDC per stress-test on Base via x402.",
+    "url": "https://thesis402.itaeui12.workers.dev",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "thirdweb",
+    "description": "Client side TypeScript SDK and HTTP API to pay for any x402 compatible endpoint from your apps or agents.",
+    "url": "https://portal.thirdweb.com/payments/x402/client",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "thirdweb",
+    "description": "Server side TypeScript SDK and facilitator HTTP API supporting 170+ chains and 4000+ tokens.",
+    "url": "https://portal.thirdweb.com/payments/x402/facilitator",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "tip.md",
+    "description": "A crypto tipping service that enables AI assistants to help users send cryptocurrency tips to content creators directly from their chat interface. USDC tips via MCP are powered by x402. The MCP service allows for checking wallet types and preparing cryptocurrency tips for users/agents to complete.",
+    "url": "https://www.tip.md/documentation?tab=mcp-server",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "TokenMesa",
+    "description": "Tokenmesa helps businesses launch service backed token based on x402. Allowing users to pay through x402 with any token and auto convert to service token to reinforce token value.",
+    "url": "https://www.tokenmesa.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "tollbooth",
+    "description": "Open-source x402 API gateway. Turn any API into a paid x402 API with a single YAML config. Dynamic pricing, multi-upstream proxy, SSE streaming, lifecycle hooks, and Docker support.",
+    "url": "https://tollbooth.sh",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "AI Frens by Treasure",
+    "description": "AI Frens lets anyone launch an x402-compatible AI character token (“Fren”) and grow it with a community. With their x402-compatible Fren coin, fans can stake them for perks, send tips to their AI Fren, and pay for fun services x402 services provided by the AI character.",
+    "url": "https://aifrens.lol",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "Treasure Facilitator",
+    "description": "Treasure x402 Facilitator available on Base and Base Sepolia. Supports EIP-3009 compliant tokens including USDC, MAGIC, SMOL, MIO, AI Frens tokens, and more.",
+    "url": "https://x402.treasure.lol",
+    "category": "Facilitators"
+  },
+  {
+    "name": "Trusta.AI",
+    "description": "The traditional way of Trusta Attestation involves users obtaining a signature on the website and then interacting with the contract to pay ETH for publishing an attestation. After the upgrade, Trusta Attestation integrates the x402 API to support users/agents publishing attestations by paying USDC on the Base chain via an API interface.",
+    "url": "https://app.trustalabs.ai/attest",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Tweazy",
+    "description": "The best way to read tweets onchain / Powered by x402, MCP & CDP Smart Wallets",
+    "url": "https://github.com/aaronjmars/tweazy",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "twit.sh",
+    "description": "Real-time Twitter/X data for AI agents. No sign-up, no API keys. Pay per request in USDC on Base via x402. Fully autonomous.",
+    "url": "https://twit.sh",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Ubounty",
+    "description": "AI agents and developers earn USDC by solving GitHub issues. Automated bounty creation, PR verification, and instant x402 settlement.",
+    "url": "https://ubounty.ai",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "Vercel",
+    "description": "Vercel supports x402 as an open protocol for payments in MCP tools, enabling developers to monetize AI-powered applications and serverless functions.",
+    "url": "https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "WalletIQ",
+    "description": "Wallet intelligence API for EVM addresses. One x402 call returns a full wallet profile: age, activity stats, DeFi protocol usage, risk score, and behavioral labels across 5+ chains. Pay $0.005 USDC per lookup on Base — no API key or signup required.",
+    "url": "https://walletiq-zeta.vercel.app",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "World",
+    "description": "World (formerly Worldcoin) integrates x402 to enable verified human identity in payment flows, combining World ID with the HTTP 402 payment protocol for secure, human-verified transactions.",
+    "url": "https://docs.world.org/agents/agent-kit/integrate",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "WorldFun Facilitator",
+    "description": "AWE World.fun’s x402 Facilitator enables fee-free EIP-3009 payments in USDC and other ERC-20 tokens, handling verification and settlement on Base so developers don’t need blockchain infrastructure.",
+    "url": "https://facilitator.world.fun",
+    "category": "Facilitators"
+  },
+  {
+    "name": "x402 Example Gallery",
+    "description": "A collection of x402 examples including Next.js integration, Go Proxy, agent use-cases, authentication flows, and more. Explore practical code samples to accelerate your x402 journey.",
+    "url": "https://github.com/coinbase/x402/tree/main/examples/typescript",
+    "category": "Learning & Community Resources"
+  },
+  {
+    "name": "x402.org Facilitator",
+    "description": "Default testnet facilitator for x402",
+    "url": "https://x402.org",
+    "category": "Facilitators"
+  },
+  {
+    "name": "x402-go",
+    "description": "Go implementation of the x402 protocol for building payment-gated APIs and services",
+    "url": "https://github.com/mark3labs/x402-go",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "X402 Kit",
+    "description": "A fully modular Rust SDK for building complex X402 payment integrations.",
+    "url": "https://github.com/AIMOverse/x402-kit",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402 Market",
+    "description": "A Permissionless Launchpad for x402-Enabled Services, Powered by the AWE Network",
+    "url": "https://x402.world.fun",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402 Playground",
+    "description": "An interactive testing environment for the x402 payment protocol. Connect to any x402-enabled endpoint, test local paywalls, search the Bazaar discovery layer, and explore HTTP 402 payment flows. Built by Quicknode.",
+    "url": "https://www.x402playground.com/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402-proxy",
+    "description": "curl for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents. npx x402-proxy.",
+    "url": "https://github.com/cascade-protocol/x402-proxy",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "x402.rs Facilitator",
+    "description": "Independent, open-source facilitator in Rust. Easy to self-host, extend to new networks, or use via our hosted instance.",
+    "url": "https://facilitator.x402.rs",
+    "category": "Facilitators"
+  },
+  {
+    "name": "x402-watch",
+    "description": "A lightweight health monitoring tool for public x402-enabled APIs. It validates 402 responses, PAYMENT-REQUIRED headers, and optionally performs full payment lifecycle verification (402 → signing → 200 OK) using testnet USDC on Base Sepolia.",
+    "url": "https://github.com/logiccrafterdz/x402-watch",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402engine",
+    "description": "28 pay-per-call APIs for AI agents — image generation, LLM inference, code execution, audio transcription, crypto market data, blockchain analytics, ENS resolution, IPFS storage, and travel search. Supports USDC on Base/Solana and USDm on MegaETH.",
+    "url": "https://x402engine.app",
+    "category": "Services/Endpoints"
+  },
+  {
+    "name": "x402jobs",
+    "description": "Visual workflow builder for x402. Chain paid resources, set your markup, publish as an endpoint anyone can pay to run. Build once, earn on every call.",
+    "url": "https://x402.jobs",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402lint",
+    "description": "Validate x402 payment configurations. CLI, SDK, website, and Claude skill for checking configs, addresses, networks, and amounts.",
+    "url": "https://x402lint.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402list.fun",
+    "description": "Discover and analyze the x402 services ecosystem. Search paid API providers by category, compare pricing and transaction volume, view reliability metrics across blockchain networks. Your comprehensive directory for x402 integration.",
+    "url": "https://x402list.fun",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402r",
+    "description": "Non-custodial refund and arbitration protocol for x402",
+    "url": "https://x402r.org",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402scan",
+    "description": "An ecosystem explorer for x402 resources and analytics",
+    "url": "https://x402scan.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402station",
+    "description": "Leading x402 analytics platform with advanced UI for monitoring x402 services. Track real-time performance metrics, x402 API analytics, and service reliability with our comprehensive x402 UI dashboard.",
+    "url": "https://x402station.com/",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "x402wall",
+    "description": "The Wall. A grid of permanent ad slots called bricks. Buy with USDC via x402. Keep forever or resell.",
+    "url": "https://x402wall.fun/how-it-works",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "xEcho Facilitator",
+    "description": "xEcho Facilitator implements on-chain settlement callbacks, enabling on-chain post-payment programmability to support pay-to-earn and outcome-based payment scenarios.",
+    "url": "https://www.xechoai.xyz",
+    "category": "Facilitators"
+  },
+  {
+    "name": "xpay Facilitator",
+    "description": "Serverless x402 facilitator on AWS with global edge distribution. Supports EIP-3009 USDC payment verification and settlement on Base mainnet and Base Sepolia.",
+    "url": "https://www.xpay.sh/x402-facilitators/xpay/",
+    "category": "Facilitators"
+  },
+  {
+    "name": "zauth",
+    "description": "Trust infrastructure for autonomous commerce. Continuous endpoint verification, AI-powered code analysis (RepoScan), real-time monitoring dashboards, automatic refund execution, and a developer SDK. Ensures agents can safely discover and pay for x402 services.",
+    "url": "https://zauthx402.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Zerion",
+    "description": "Zerion integrates x402 to enable AI agents to interact with DeFi and web3 through a unified interface, with native stablecoin payment flows.",
+    "url": "https://zerion.io/agents",
+    "category": "Client-Side Integrations"
+  },
+  {
+    "name": "ZeroPay",
+    "description": "An open crypto payment gateway for humans and AI agents",
+    "url": "https://zpaynow.com",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "zkStash",
+    "description": "zkStash is the permissionless Shared Memory Layer for the Agentic Economy. Give your Agents infinite, intelligent memory with optimized retrieval, built-in observability, and native x402 payment support.",
+    "url": "https://zkstash.ai",
+    "category": "Infrastructure & Tooling"
+  },
+  {
+    "name": "Zyte API",
+    "description": "Zyte API is a unified Web Scraping API for unblocking, browser rendering and extraction.",
+    "url": "https://python-zyte-api.readthedocs.io/en/stable/use/x402.html",
+    "category": "Services/Endpoints"
+  }
+]
