@@ -4,7 +4,7 @@
   "description": "B2A Intelligence Layer — AI agent capability discovery via MCP. Finds, matches, and orchestrates x402 services for agents that hit their ceiling.",
   "type": "module",
   "bin": {
-    "b2a-mcp": "./dist/index.js"
+    "b2a-mcp": "dist/index.js"
   },
   "main": "./dist/index.js",
   "scripts": {
@@ -37,6 +37,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/LTede/b2a-mcp-server"
+    "url": "git+https://github.com/LTede/b2a-mcp-server.git"
   }
 }
